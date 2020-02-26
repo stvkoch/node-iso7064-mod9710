@@ -12,7 +12,7 @@ const invalidNumbers = [
   undefined,
   'string',
   '123123',
-  ''
+  '79544'
 ];
 
 describe('ISO7064', () => {
